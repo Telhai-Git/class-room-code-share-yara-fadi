@@ -1,15 +1,22 @@
-# 👥 Students:
+# 👥 Students
 
-	👩🏻 Yara Hneif			 		📧 YaraHneif131@gmail.com
-	
-	🧔🏻‍ Fadi Eilabouni		 		📧 feilabouni@gmail.com
+- ## [👩🏻 Yara Hneif](https://github.com/Yara-hneif)
 
+  		📧 YaraHneif131@gmail.com
+
+
+
+- ## [🧔🏻‍ Fadi Eilabouni](https://github.com/Fadi5801)
+
+		📧 feilabouni@gmail.com
 
 
 ---
 
-
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FBdKVkDf)
+  
+### 📦 [Full-Stack Project Repository](https://github.com/Yara-hneif/FULLSTACKPROJECT)
+  
+### 🌐 [live website preview](https://Yara-hneif.github.io/FULLSTACKPROJECT/)
 
 
 ---
